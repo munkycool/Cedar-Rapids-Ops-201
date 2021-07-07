@@ -35,3 +35,14 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+# Welcome to the notes 
+
+## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever. 
+
+#Making a system restore point in Windows 10
+
+- system restore points are used to restore Windows to a previos state
+- It will not affect any non-system files. So all of your cat pictures are going to be safe, but the TOR browser that you use all of the time isn't going to be safe if the resotore point is before you installed it 
+- They can also be created automatically by Windows, not just manually
