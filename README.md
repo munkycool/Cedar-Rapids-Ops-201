@@ -2,7 +2,7 @@
 
 # Welcome to the notes 
 
-## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever. 
+## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
 
 # How to toubleshoot troubleshooting     
 
@@ -41,6 +41,8 @@
   - A backdoor is just as good as a wall if it's jamed shut
     
 - Once you've made sure that you have access... or fixed the problem... make sure that you can still have access... I mean that the problem doesn't happen in the future
+
+
 # What's the role of the help desk?
 
 ## The interesting stuff
