@@ -4,6 +4,43 @@
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever. 
 
+# How to toubleshoot troubleshooting     
+
+## *a step by step guide* (not really, but hey, it sounded good)
+
+- If posible you want to duplicate the problem
+  
+  - So if they get error code ID10T then you want to get error code ID10T not SM4R7 or something like that
+    
+- Problems often come with multiple symptoms, it's never just one thing
+  
+- Since the end user is probably familiar with the system and what goes on with it make sure to hound them with questions
+  
+  - Good examples are
+    
+    - SSN
+      
+    - DOB
+      
+    - Street they grew up on
+      
+    - All thier passwords
+      
+    - Ect.
+      
+- If multiple things are happening simotaniusly then break it up into smaller tasks
+  
+- You need to consider every posible senario, even ones that don't seem that likely
+  
+- Once you identify the problem it's time to roll out the tanks, fire up Parrot, and attack head on
+  
+  - If one solution doesn't work make sure that you have a backup solution
+    
+- Once you apply a fix you still have to make sure that it works.
+  
+  - A backdoor is just as good as a wall if it's jamed shut
+    
+- Once you've made sure that you have access... or fixed the problem... make sure that you can still have access... I mean that the problem doesn't happen in the future
 # What's the role of the help desk?
 
 ## The interesting stuff
