@@ -4,6 +4,66 @@
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
 
+# What's the Microsoft Security Centre
+
+## *Friend or foe?*
+
+The Microsoft Security Centre is the hub for where all of Microsoft's security related stuff is for Microshaft Winblows, one might even call a *centre of Microsoft security*
+
+### The basics
+
+---
+
+There are several different panels when one goes to the Security Centre website
+
+---
+
+#### Virus and threat protection
+
+- This is where the virus and threat protection related stuff is
+  
+- You can run a scan of the system
+  
+- You can configure virus protection settings
+  
+
+---
+
+#### Performence and Health
+
+- This is where you can check up on the system
+  
+
+---
+
+##
+
+#### Firewall and network protection
+
+- this is where you can configure the firewall, or configure advanced options by opening up a panel that looks like it hasn't changed since XP
+  
+
+---
+
+#### App and browser control
+
+- you can adjust smart screen settings for various apps and browsers
+  
+
+---
+
+#### Family options
+
+- This is where you can help protect your kids
+  
+
+## Other
+
+- Microsoft's built in Defender is just fine, and you really don't need another third party antivirus. If you want a reason just search `avast privacy issues` and explore the results.
+  
+- If you set up family options then your kids will inevitably find a way to bypass it. I never had any family safety thingy keeping me safe on the internet and I turned out fine... I think.
+
+
 # How to toubleshoot troubleshooting     
 
 ## *a step by step guide* (not really, but hey, it sounded good)
