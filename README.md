@@ -4,6 +4,26 @@
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
 
+# All about PowerShell
+
+## Should you learn powershell
+
+- Powershell is the command line interface that Microsoft created built on the .NET framework is meant to be kinda an upgrade to the cmd
+  
+- The main difference between bash and powershell is that bash using strings while powershell uses objects
+  
+- Powershell is cross platform
+  
+
+## Hackers are using powershell according to the immortal company, IBM
+
+- A lot of hackers just used powershell scripts to carry out their deeds
+  
+- By using powershell scripting you can load things directly into memory
+  
+- The majority of scams are still phishing however
+
+
 # What's the Microsoft Security Centre
 
 ## *Friend or foe?*
