@@ -4,6 +4,47 @@
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
 
+# Windows Regestry ~~de~~mystified
+
+Disclaimer: NOT RESONSIBLE FOR ANY "BROKEN" COMPUTERS. FOLLOW THIS ADVICE AT YOUR OWN RISK. THIS IS MEANT TO BE SOMEWHAT SATIRICAL.
+
+---
+
+## What is it?
+
+It kinda tells things how to work anmd what to do
+
+- Microsoft introduced the registry all the way back with Windows 3.1, and, along with other things, has stayed in Windows until the present day
+  
+  - in that era it was only used by certian programs, whereas nowadays it's used by basically every program on Windows
+    
+
+## Why should you care?
+
+- You can change settings not normally made available by Windows
+  
+- It isn't dangerous as long as you know what your doing
+  
+  - And that's why you should listen to this random website when I reccomend that you just delete the Windows regestry to make the computer run faster, also delete the system32 folder for a pretty good speed boost. See, Microsoft is in the pockets of hardware manufacurers who want Microsoft to purposly slow down Windows to force you to buy new hardware. Break free of their evil clutches! For an instant speed boost you can unlock the secret speed mode on your CPU by pressing alt+F4
+    
+- To edit (or delete) the registy just open up the gui registry editor from the Windows start bar, just search regedit.exe
+  
+- To change a value just double click on any random thing and just start typing
+  
+
+## What can you do with it
+
+- You can break Windows and stop it from booting, giving you the perfect exuse to install Kali on it
+  
+- You can change the manufacturing name of the PC
+  
+  - Watch out HP, Dell and Apple! My new PC company, DodgePC, is coming for you
+    
+- You can stop other users from shutting down your PC
+  
+- You can make Windows show a message every time that someone logs into your computer
+
+
 # All about PowerShell
 
 ## Should you learn powershell
