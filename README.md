@@ -1,8 +1,28 @@
+# Disclaimer: NOT RESONSIBLE FOR ANY "BROKEN" COMPUTERS. FOLLOW THIS ADVICE AT YOUR OWN RISK. THIS IS MEANT TO BE SOMEWHAT SATIRICAL.
 
 
 # Welcome to the notes 
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
+
+# You want to write an SOP?
+
+### *the first step is figuring out what SOP stands for*
+
+---
+
+- SOP stands for Standard operating procedure
+  
+- It's scecific to "your" company
+  
+  - (I put your in quotes becasue it's not really yours is it? The only reason I put it here is because it was the best way to get the message accross, but on the whole I don't get why you would ever personally assosiate yourself with a company. It's like it's your friend or something, when it's really not
+    
+- SOP answers the what when and why
+  
+- They are the primary way to impliment and enforce policy
+  
+- They should be simple, portable, tell a story, be consistant, and it's all about the audence
+
 
 # Windows Regestry ~~de~~mystified
 
