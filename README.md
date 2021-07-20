@@ -5,6 +5,28 @@
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
 
+# How to get started with veeam
+
+---
+
+## The intro
+
+- You can back up stuff using veeam
+  
+- You can back up running VMs
+  
+- veeam has native tape support
+  
+- You can use hardware accelerated compresion
+  
+- It has good integration with Hyper-V adn VMWare enviroments
+  
+
+---
+
+*I know how much this sounds like an ad, and tbf the info did come from veeam's website, but I have never used veeam myself. Although it doesn't sound too bad, and i don't know of any FOSS solutions that quite compare to veeam.*
+
+
 # You want to write an SOP?
 
 ### *the first step is figuring out what SOP stands for*
