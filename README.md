@@ -5,6 +5,15 @@
 
 ## Hello and welcome to some finely crafted notes about  what I've been reading for this class, hosted here on one of the ugliest websites ever that's lookin' like it was pulled straight from 2077... minus a few hundred years. 
 
+# How to remove malware from a computer
+
+- Boot the computer into safe mode
+- Download a malware scanner like MalwareBytes 
+- Run a malware scan with the software
+- Run a Windows Defender full scan 
+- If all else fails backup your personal file, and reset the PC 
+- If your cool install Linux instead of Windows 
+
 # How to get started with veeam
 
 ---
