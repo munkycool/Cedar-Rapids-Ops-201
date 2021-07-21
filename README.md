@@ -1,4 +1,4 @@
-<!-- Shall we play a game? --> 
+# *Shall we play a game?* 
 
 # Disclaimer: NOT RESONSIBLE FOR ANY "BROKEN" COMPUTERS. FOLLOW THIS ADVICE AT YOUR OWN RISK. THIS IS MEANT TO BE SOMEWHAT SATIRICAL.
 
